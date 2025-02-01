@@ -41,10 +41,6 @@ This software is created **for educational purposes only**. Unauthorized use of 
 
 To stop the keylogger, press **`ESC`**. This will **end the program** and display the exit message.
 
-## 📝 Log File
-
-All recorded keystrokes are saved in **`log.txt`** in the same directory.
-
 ---
 👤 **Developed by**: LXWXIE
 
